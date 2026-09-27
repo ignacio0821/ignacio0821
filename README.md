@@ -17,4 +17,3 @@ An infrastructure and network automation engineer building reliable systems from
 * [ccnp-encor-infrastructure-automation](https://github.com) - Cisco CCNP ENCOR blueprint routing protocols and testbeds.
 * [CCNA_Automation](https://github.com) - Network programmability, RESTCONF, and discrete math models.
 * [multi-router-automation](https://github.com) - Multi-node parallel orchestration and secure environment mapping.
--->
