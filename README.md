@@ -18,7 +18,8 @@ An infrastructure and network automation engineer building reliable systems from
 
 ### 📁 Active Production Portfolios
 
-* 🐍 **[pcap-network-automation](https://github.com)** — Python Certified Associate foundational automation scripts, modular parsers, and logic drills.
-* 🌐 **[ccnp-encor-infrastructure-automation](https://github.com)** — Cisco CCNP ENCOR blueprint routing protocols, Named Mode EIGRP, multi-hop tunnel overlays, and simulated testbeds.
-* 🤖 **[CCNA_Automation](https://github.com)** — Network programmability sandbox documenting programmatic device abstractions, RESTful API integrations, and discrete mathematical proof engines.
-* 🗺️ **[multi-router-automation](https://github.com)** — Multi-node parallel orchestration, secure environment topology mapping, and error-handling matrices.
+* 🐍 **[pcap-network-automation](https://github.com/ignacio0821/pcap-network-automation)** — Python Certified Associate foundational automation scripts, modular parsers, and logic drills.
+* 🌐 **[ccnp-encor-infrastructure-automation](https://github.com/ignacio0821/ccnp-encor-infrastructure-automation)** — Cisco CCNP ENCOR blueprint routing protocols, Named Mode EIGRP, multi-hop tunnel overlays, and simulated testbeds.
+* 🤖 **[CCNA_Automation](https://github.com/ignacio0821/CCNA_Automation)** — Network programmability sandbox documenting programmatic device abstractions, RESTful API integrations, and discrete mathematical proof engines.
+* 🗺️ **[multi-router-automation](https://github.com/ignacio0821/multi-router-automation)** — Multi-node parallel orchestration, secure environment topology mapping, and error-handling matrices.
+
